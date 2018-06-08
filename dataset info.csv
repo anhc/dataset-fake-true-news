@@ -1,0 +1,103 @@
+File;News;Code;Label
+1 - Neymar to PSG.csv;Neymar joins PSG;1T;True
+10 - Benik Afobe to Wolves.csv;Benik Afobe join Wolves;2T;True
+11 - Leonardo Ulloa joins Brighton.csv;Leonardo Ulloa joins Brighton;3T;True
+12 -  Jurgen Locadia to Brighton.csv;Jurgen Locadia joins Brighton;4T;True
+13 - Jamie Murphy joins Rangers.csv;Jamie Murphy joins Rangers;5T;True
+16 - Aaron Lennon to Burnley.csv;Aaron Lennon Joins Rangers;6T;True
+18 - Ross Barkley to Chelsea.csv;Ross Barkley join Chelsea;7T;True
+19 - Emerson Palmieri to Chelsea.csv;Emerson Palmieri join Chelsea;8T;True
+2 - Konstantinos Mavropanos to Arsenal.csv;Konstantinos Mavropanos joins Arsenal;9T;True
+20 - Michy Batshuayi to Borussia Dortmund.csv;Michy Batshuayi joins Borussia Dortmund;10T;True
+21 - Jake Clarke-Salter to Sunderland.csv;Jake Clarke-Salter joins sunderland;11T;True
+22 - Kenedy joins Newcastle.csv;Kenedy joins Newscastle;12T;True
+23 - Charly Musonda to Celtic.csv;Clarly Musonda joins Celtic;13T;True
+25 - Kasey Palmer to Derby County.csv;Kasey Palmer joins Derby County;14T;True
+3 - Pierre-Emerick Aubameyang to Arsenal.csv;Pierre-Emerick joins Arsenal;15T;True
+32 - Cristiano Ronaldo becomes a father of twins.csv;Cristiano Ronalto becomes a father of twins;16T;True
+33 - conor mcgregor lose to mayweather mma.csv;Conor Mcgregor lose to Mayweather;17T;True
+34 - Ariel Helwani UFC events ban.csv;Ariel Helwani ban from UFC events;18T;True
+35 - Muhammad Ali has passed.csv;Muhammad Ali has passed;19T;True
+36 - Gordon Hayward Breaks His Leg.csv;Gordon Hayward Breaks His Leg;20T;True
+37 - DeMarcus Cousins to Pelicans.csv;DeMarcus Cousins to Pelicans;21T;True
+38 - LeBron James ejected.csv;LeBron James ejected;22T;True
+39 - Indians Abandon Chief Wahoo Logo.csv;Indians Abandon Chief Wahoo Logo;23T;True
+4 - Olivier Giroud to Chelsea.csv;Olivier Giroud to Chelsea;24T;True
+40 - Carson Palmer has retired.csv;Carson Palmer has retired;25T;True
+41 - Italy not Cup.csv;Italy have failed to qualify for the 2018 World Cup;26T;True
+42 - usa not Cup.csv;USA eliminated from world cup contention;27T;True
+43 - Arsene Wenger step down as Arsenal manager.csv;Arsene Wenger step down as Arsenal manager;28T;True
+44 - Ronaldinho officially retired.csv;Ronaldinho officially retired;29T;True
+45 - Man Uni eliminated from Champions League.csv;Man Uni eliminated from Champions League;30T;True
+46 - Wayne Rooney donation.csv;Wayne Rooney makes £750,000 Christmas donation;31T;True
+47 - Neale Cooper dies.csv;Neale Cooper dies;32T;True
+48 - Man Uni in Women Championship.csv;Man Uni in Women Championship;33T;True
+50 - Mark Hughes signs Southampton.csv;Mark Hughes signs Southampton;34T;True
+51 - Nashville to host 2019 NFL draft.csv;Nashville to host 2019 NFL draft;35T;True
+53 - Mark Ingram suspended.csv;Mark Ingram suspended;36T;True
+54 - Dwight Freeney to retire.csv;Dwight Freeney to retire;37T;True
+55 - NFL ban 10 helmet.csv;NFL ban 10 helmets;38T;True
+56 - Vasyl Lomachenko surgery.csv;Vasyl Lomachenko to undergo arthroscopic surgery after injury;39T;True
+57 - Dean Francis dies.csv;Dean Francis dies;40T;True
+58 - Brendan Ingle passes.csv;Brendan Ingle passes;41T;True
+6 - Francis Coquelin to Valencia.csv;Francis Coquelin to Valencia;42T;True
+60 - Trump pardons box Jack Johnson.csv;Trump pardons boxer Jack Johnson;43T;True
+61 - Eric Molina receives 2year ban.csv;Eric Molina receives 2 year ban;44T;True
+63 - Usain Bolt retires.csv;Usain Bolt retires;45T;True
+64 - Chelsea new stadium on hold.csv;Chelsea new stadium on hold;46T;True
+65 - Zidane quits Real Madrid.csv;Zidane quits Real Madrid;47T;True
+66 - Real Madrid win Champions League.csv;Real Madrid win Champions League;48T;True
+7 - Jeff Reine-Adelaide joins Angers.csv;Jeff Reine-Adelaide joins Angers;49T;True
+8 - Mathieu Debuchy to Saint-Etienne.csv;Mathieu Debuchy to Saint-Etienne;50T;True
+9 - Lewis Grabban joins Aston Villa.csv;Lewis Grabban joins Aston Villa;51T;True
+1-Mcgregor.csv;Mcgregor vídeo falso;1F;False
+10-Sky sports Yerdas Selzavon.csv;Sky sports Yerdas Selzavon fake transfer;2F;False
+11-Yilget Fakal has signed for Dons.csv;Yilget Fakal has signed for Dons;3F;False
+12-Rooney china.csv;Rooney signs with chinese team;4F;False
+13-golden tate and russel wilson wife.csv;golden tate and russel wilson wife;5F;False
+14-LeBron James to warriors.csv;LeBron James to warriors;6F;False
+15-Jeff Green Denies Rumors Of Trade.csv;Jeff Green Denies Rumors Of Trade;7F;False
+16-Anthony Martial rumours exit talk.csv;Anthony Martial rumours exit talk;8F;False
+17-Hector Bellerin to Barcelona.csv;Hector Bellerin to Barcelona;9F;False
+18-Arsene Wenger to Paris St Germain.csv;Arsene Wenger to Paris St Germain;10F;False
+19-Messi to man City.csv;Messi to man City;11F;False
+2-Mcgregor.csv; McGregor knocked out in boxing;12F;False
+20-Kevin Love trade rumors.csv;Kevin Love trade rumors;13F;False
+21-Tony Hawk False Death.csv;Tony Hawk False Death;14F;False
+22-Fox Sports Cancels ALL NFL Broadcasts.csv;Fox Sports Cancels ALL NFL Broadcasts;15F;False
+23-McGregor and Mayweather Rematch.csv;McGregor and Mayweather Rematch;16F;False
+24-Washington Football Change Name To Redhawks.csv;Washington Football Change Name To Redhawks;17F;False
+25-Baseball Players Protest.csv;Baseball Players Photographed Kneeling to Protest;18F;False
+26-NFL Players Protesting.csv;NFL Players Protesting Against Police Brutality;19F;False
+27-Black NFL Players Demand.csv;Black NFL Players ‘Demand’ that the NFL Force ‘White Fans’ Into Community Activism;20F;False
+28-J T Brown Fired.csv;J T Brown Fired;21F;False
+29-Colin Kaepernick claim.csv;Colin Kaepernick Say He Would Stand for the National Anthem If Signed by an NFL Team;22F;False
+3-Mcgregor homeless.csv;Less than 10 years ago, Conor Mcgregor was homeless;23F;False
+30-Nike Cut Ties With the Dallas.csv;Nike Cut Ties With the Dallas Cowboys Over National Anthem Protests;24F;False
+31-Trump ban from nfl.csv;NFL Give Donald Trump a Lifetime Ban;25F;False
+32-Kellyanne Conway Require NBA Champions.csv;Kellyanne Conway Try to Require NBA Champions to Visit the White House;26F;False
+33-Joakim Noah give  finger.csv;Joakim Noah Gives U.S. Soldiers the Finger;27F;False
+34-chapecoense fined.csv;Soccer Team Chapecoense Fined for Forfeiting Final Match;28F;False
+35-Fidel Castro Baseball.csv;Fidel Castro, Baseball Star;29F;False
+36-usain bolt donation.csv;Usain Bolt, Shakira Donated Millions to Haiti After Hurricane Matthew;30F;False
+37-Coaches Bela and Marta Karolyi Illegal Immigrants.csv;U.S. Gymnastics Coaches Bela and Marta Karolyi Were Illegal Immigrants;31F;False
+38-Iran Blurs Photograph Volleyball.csv;Iran Blurs Photograph Showing Olympics Volleyball Player;32F;False
+39-Steph Curry Suspended.csv;Steph Curry Suspended from NBA Finals;33F;False
+4-barcelona di maria-en.csv;Barcelona signing of Angel di Maria;34F;False
+40-John Madden Death.csv;John Madden Death;35F;False
+41-Mayweather Pacquiao Fight Was Reversed.csv;Mayweather Pacquiao Fight Was Reversed;36F;False
+42-Opera House surf.csv;Sydney Opera House Surfer;37F;False
+43-NFL Decide Not to Televise National Anthem.csv;NFL Decide Not to Televise National Anthem Before Super Bowl;38F;False
+44-Convicted Felons NFL.csv;871 Convicted Felons Currently Playing for the NFL;39F;False
+45-Army Black Knights.csv;Army Football Team Kneel in Protest During the National Anthem;40F;False
+46-Budweiser and NFL.csv;Budweiser Pull Advertising from the NFL Over National Anthem Protests;41F;False
+47-NFL fines Steelers.csv;NFL Fines Pittsburgh Steelers $1M Each for Skipping National Anthem;42F;False
+48-NBA Refs Earn a Bonus.csv;NBA Refs Earn a $10 Million Bonus After Series Went to Game 5;43F;False
+49-Jason Pierre Paul hand.csv;Jason Pierre-Paul Blows Off Other Hand After His Samsung Galaxy Note 7 Explodes;44F;False
+5-messi interview-en.csv;Messi interview in 'Coach';45F;False
+50-usain bolt donation16.csv;usain bolt donation16;46F;False
+51-Floyd Mayweather Rally.csv;Floyd Mayweather Rally;47F;False
+6-cristiano ronaldo hospital-en.csv;Cristiano Ronaldo planning to build a pediatric hospital in Chile;48F;False
+7-zozulya.csv;Zozulya is a nazi;49F;False
+8-casillas.csv;Porto forcing Iker Casillas out of club ;50F;False
+9-cristiano ronaldo.csv;Cristiano Ronaldo tax problems;51F;False
