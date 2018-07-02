@@ -1,5 +1,5 @@
 # dataset-fake-true-news
-Dataset containing some tweets related with fake news e real news
+Dataset containing some tweets related with fake news and real news
 
 Dataset containing tweets collected with the following project https://github.com/Jefferson-Henrique/GetOldTweets-python; <br />
 Tweets are related to false and true news; <br />
